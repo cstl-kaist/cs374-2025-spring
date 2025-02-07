@@ -7,8 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
- - url: https://hci.cstlab.org/projects/08_DP6
-   title: 'DP6 Write-up'
+ - title: 'DP6 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

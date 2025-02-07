@@ -8,8 +8,7 @@ class:
 material:
  - title: 'None'
 assignment:
- - url: https://docs.google.com/forms/u/4/d/e/1FAIpQLSdb7HqBvh036YQ7YrAWuQrD985qdr9sPacFcG14rApOL0GLmA/viewform?usp=send_form
-   title: Course sign-up  
+ - title: Course sign-up  
 hide_time: true
 hide_from_announcements: true
 ---
