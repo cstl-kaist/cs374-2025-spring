@@ -1,0 +1,94 @@
+---
+layout: default
+title: page.title
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
+  </header>
+
+  <div>
+    {% if page.due_event %}
+    <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Tue) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
+    {% elsif page.title == 'Mini Project' %}
+    <span style="font-weight: bold"><mark>Studio: in-class on 3/19 (Tue), slides by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Individual Reflection: 3/20 (Wed) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>10% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://forms.gle/3fHAzkTbmkLNsWNT6">[Individual Reflection Submission Form]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 0: Team Formation' %}
+    <span style="font-weight: bold"><mark>Due Date: 03/26 (Tue) 23:59</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://forms.gle/1JPBkSMtPLPpWkdC8">[Team Formation Submission Form]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 1: Needfinding' %}
+    <span style="font-weight: bold"><mark>Studio: in-class on 4/4 (Thurs), slides by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up: 4/5 (Fri) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>7% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/8FLbqAVAY6GE101dODUx">[Submission Link]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 2: Ideation' %}
+    <span style="font-weight: bold"><mark>Studio: in-class on 4/11 (Thurs), slides by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up: 4/12 (Fri) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>7% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/i9v7HMTYAFRVm0hlsjTQ">[Submission Link]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 3: Low-fidelity Prototyping' %}
+    <span style="font-weight: bold"><mark>Studio: in-class on 4/30 (Tue), slides by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up: 5/1 (Wed) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>7% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/7iw4BMXRwPfaQNtWWqER">[Submission Link]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 4: Design Iteration' %}
+    <span style="font-weight: bold"><mark>Studio: in-class on 5/9 (Thurs), Heuristic Evaluation Request Form by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up (BOTH Team and Individual Reports): 5/10 (Fri) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>7% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/nVtEiRdvxIPxES0O3wtt">[Submission Link (Team)]</a></mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/woV8pPu50G70x6DKXU36">[Submission Link (Individual)]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 5: Usability Testing' %}
+    <span style="font-weight: bold"><mark>Studio: 5/28 (Tue), slides by 10:30 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up: 6/5 (Wed) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>7% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/KhrXgZQhYIgi0VHNm639">[Submission Link]</a></mark></span>
+    <br>
+    {% elsif page.title == 'Design Project 6: Project Showcase' %}
+    <span style="font-weight: bold"><mark>Project Showcase: 10:30-11:45 AM on 6/4 (Tue) @ N1-102, slide by 10:29 AM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>Final Write-up: 6/13 (Tue) 11:59 PM</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark>15% of your total grade</mark></span>
+    <br>
+    <span style="font-weight: bold"><mark><a href="https://www.dropbox.com/request/vVoZ4gWkoQ6aOeyJUrWI">[Submission Link]</a></mark></span>
+    <br>
+    {% endif %}
+    <br>
+  </div>
+
+  <br />
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

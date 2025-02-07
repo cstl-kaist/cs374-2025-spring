@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+
+    {% include announcements.html %}
+    <br />
+
+    <h2>Course Description</h2>
+    <p>{{ site.course_description }}</p>
+    <p><b>Prerequisites</b>: There are no formal prerequisites for this class, and non-CS majors are welcome to enroll, but students may benefit from having taken some introductory computer science classes.</p>
+
+    <h2>Topics</h2>
+    <div>
+    <b>Major topics include:</b>
+    <ul>
+        <li>Usability: Learnability, Efficiency, Safety</li>
+        <li>User-Centered Design Process</li>
+        <li>Rapid Prototyping, Iterative Design</li>
+        <li>Needfinding, Contextual Inquiry, Storyboards</li>
+        <li>Affordance, Metaphors, Conceptual Models</li>
+        <li>User Interface Software Architecture</li>
+        <li>Input and Output</li>
+        <li>Visual Information Design</li>
+        <li>Layout, Color, Typography</li>
+        <li>Usability Testing & Heuristic Evaluation</li>
+        <li>Experimental Design & Analysis</li>
+    </ul>
+    </div>
+
+    {{ content }}
+
+    <br>
+    <h2>Important Links</h2>
+    <div>
+        <b>Course Website</b>: <a href="https://hci.cstlab.org/">https://hci.cstlab.org/</a><br/>
+        <b>Submission & Grading</b>: <a href="https://klms.kaist.ac.kr/">KLMS</a><br/>
+        <b>Discussion and Q&A</b>: <a href="https://campuswire.com/c/GC9AD6BA1">Campuswire</a><br/>
+        <b>Staff Mailing List: <a href="cs374kaist@googlegroups.com">cs374kaist@googlegroups.com</a></b>
+    </div>
+
+    <br>
+    <h2>Time & Location</h2>
+    <div>
+        <b>Classes & Studios</b>: 10:30 - 11:45 AM Tue/Thurs @ Zoom<br />
+        <b>Office Hours</b>: Monday 8 PM (Emailing ahead recommended)
+    </div>
+
+    <br>
+    <h2>Grading</h2>
+    <ul>
+        <li>Design Project: 50%</li>
+        <li>Mini Project: 10%</li>
+        <li>Assignments: 20%</li>
+        <li>Nano quizzes: 10%</li>
+        <li>Class & Studio participation: 10%</li>
+    </ul>
+
+    <br>
+    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+    <h2>Previous Years</h2>
+    <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    <br>
+    <div>
+        <div style="width:35%; float: left">
+            <!-- <h2>Instructors</h2> -->
+            <!-- <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div> -->
+
+            <div class="profile-pic-gallary ">
+                <h2>Instructor</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ta.webpage %}
+                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,59 @@
+# Site settings
+course_name: CS374 Introduction to Human-Computer Interaction
+course_description: "Designing useful and usable user interfaces is much more than designing fancy and beautiful things. This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces. Through this course, you’ll master the skills to design useful and usable interfaces that are carefully catered to users’ needs."
+course_semester: "2024 Spring"
+
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://hci.cstlab.org" # the base hostname & protocol for your site
+
+schoolname: "KAIST School of Computing"
+schoolurl: "https://cs.kaist.ac.kr"
+twitter_username: 
+
+address: |
+    School of Computing
+    Korea Institute of Science and Technology (KAIST)
+    Daejeon, Republic of Korea
+
+# Set your Google Analytics tracking ID (set up yours at https://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css', '_scripts']
+exclude: ['develop']
+
+dateformat: "%m/%d"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+    projects:
+        output: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"

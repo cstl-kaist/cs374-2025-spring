@@ -1,0 +1,4 @@
+policies:
+  - The penalty for being late is 10% for each late day.
+  - Submissions will be accepted until three days after the deadline. After that, it will be an automatic 0.
+  - No submission gets an automatic 0.

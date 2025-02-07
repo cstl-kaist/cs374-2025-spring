@@ -1,0 +1,38 @@
+<div class="col col-1" style="color: #b2b2b2" data-label="Week">{{ include.event.week }}</div>
+<div class="col col-1" data-label="Date">
+    {{ include.event.date | date: site.dateformat }}
+    {% unless include.event.hide_time %}
+    {{ include.event.date | date: "%H:%M" }}
+    {% endunless %}
+    <br class="date-spliter" />{{ include.event.date | date: "%A" }}
+</div>
+<div class="col col-4" data-label="Class/Studio">
+    {% for m in include.event.class %}
+    {% if m.url %}
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    {% else %}
+    {{ m.title }}
+    {% endif %}
+    <br>
+    {% endfor %}
+</div>
+<div class="col col-3 markdown-content" data-label="Pre-Class Material">
+    {% for m in include.event.material %}
+    {% if m.url %}
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    {% else %}
+    {{ m.title }}
+    {% endif %}
+    <br>
+    {% endfor %}
+</div>
+<div class="col col-3 markdown-content" data-label="Assignment Due">
+    {% for m in include.event.assignment %}
+    {% if m.url %}
+    <a href="{{ m.url }}">{{ m.title }}</a>
+    {% else %}
+    {{ m.title }}
+    {% endif %}
+    <br>
+    {% endfor %}
+</div>
