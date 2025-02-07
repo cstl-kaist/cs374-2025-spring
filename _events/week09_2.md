@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-04-25T10:30:00+9:00
+date: 2025-04-24T14:30:00+9:00
 week: 9
 class:
  - title: 'Figma / Web Tutorial'

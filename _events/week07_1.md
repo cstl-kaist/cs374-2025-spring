@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-04-09T10:30:00+9:00
+date: 2025-04-08T14:30:00+9:00
 week: 7
 class:
  - title: 'Human Abilities'

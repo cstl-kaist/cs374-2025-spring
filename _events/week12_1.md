@@ -1,9 +1,9 @@
 ---
-type: noclass
-date: 2024-05-14T10:30:00+9:00
+type: class
+date: 2025-05-13T14:30:00+9:00
 week: 12
 class:
- - title: 'No class'
+ - title: 'TBD'
 material:
  - title: 'None'
 assignment:

@@ -1,9 +1,9 @@
 ---
-type: noclass
-date: 2024-06-06T10:30:00+9:00
+type: class
+date: 2025-06-05T14:30:00+9:00
 week: 15
 class:
- - title: 'No class (National Holiday - Memorial Day)'
+ - title: 'TBD'
 material:
  - title: 'None'
 assignment:

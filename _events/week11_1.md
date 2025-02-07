@@ -1,9 +1,9 @@
 ---
-type: class
-date: 2024-05-07T10:30:00+9:00
+type: noclass
+date: 2025-05-06T14:30:00+9:00
 week: 11
 class:
- - title: 'Visual Design & Layout'
+ - title: 'Visual Design & Layout (National Holiday)'
 material:
  - url: https://docs.google.com/document/d/1z8tuMqrAS1dAtN8iITMtJzYkp5dPnpFEcdH8M-TxnBM/edit?usp=sharing
    title: 'Reading'

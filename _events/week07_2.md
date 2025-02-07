@@ -1,6 +1,6 @@
 ---
 type: studio
-date: 2024-04-11T10:30:00+9:00
+date: 2025-04-10T14:30:00+9:00
 week: 7
 class:
  - title: '[Studio] DP2: Ideation'

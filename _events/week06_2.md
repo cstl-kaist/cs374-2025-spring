@@ -1,6 +1,6 @@
 ---
 type: studio
-date: 2024-04-04T10:30:00+9:00
+date: 2025-04-03T14:30:00+9:00
 week: 6
 class:
  - title: '[Studio] DP1: Needfinding'
