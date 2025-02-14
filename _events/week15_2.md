@@ -1,9 +1,9 @@
 ---
-type: class
+type: studio
 date: 2025-06-05T14:30:00+9:00
 week: 15
 class:
- - title: 'TBD'
+ - title: '[Studio] DP6: Project Showcase & Course Wrap-up'
 material:
  - title: 'None'
 assignment:

@@ -1,14 +1,13 @@
 ---
-type: studio
+type: class
 date: 2025-03-18T14:30:00+9:00
 week: 4
 class:
- - title: '[Studio] Mini Project'
+ - title: 'Usability Testing'
 material:
- - url: https://docs.google.com/document/d/1WWT9ir8gimboA6w0ZLpvFfJwWeA-X-zqY1ZelCdAwjw/edit?usp=sharing
-   title: 'Reading (Prototyping 2/2 + User-Centered Design)'
+ - url: https://docs.google.com/document/d/1obCqmsaEeGt5uB7tltgzqYtgqAPTTi8PiWXFgStkGTI/edit?usp=sharing
+   title: 'Reading'
 assignment:
- - title: 'Mini Project Individual Reflections'
 hide_time: true
 hide_from_announcements: true
 ---

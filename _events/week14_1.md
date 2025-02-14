@@ -1,9 +1,9 @@
 ---
-type: studio
+type: class
 date: 2025-05-27T14:30:00+9:00
 week: 14
 class:
- - title: '[Studio] DP5: Prototyping Round 3 + Usability Testing'
+ - title: 'TBD'
 material:
  - title: 'None'
 assignment:

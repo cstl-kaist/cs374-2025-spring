@@ -3,7 +3,7 @@ type: class
 date: 2025-04-22T14:30:00+9:00
 week: 9
 class:
- - title: 'UI Software Architecture + Output'
+ - title: 'TBD'
 material:
  - title: 'None'
 assignment: 

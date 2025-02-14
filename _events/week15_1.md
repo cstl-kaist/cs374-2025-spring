@@ -1,9 +1,9 @@
 ---
-type: studio
+type: class
 date: 2025-06-03T14:30:00+9:00
 week: 15
 class:
- - title: '[Studio] DP6: Project Showcase & Course Wrap-up'
+ - title: 'HCI Research & Career Paths (Online class!)'
 material:
  - title: 'None'
 assignment:

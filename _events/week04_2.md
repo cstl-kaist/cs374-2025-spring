@@ -1,13 +1,14 @@
 ---
-type: class
+type: studio
 date: 2025-03-20T14:30:00+9:00
 week: 4
 class:
- - title: 'Learnability 1'
+ - title: '[Studio] Mini Project'
 material:
- - url: https://docs.google.com/document/d/1k1msUpl_SXDu0TmbstKamiIrp4zifCAnAY0Ayj_kPD0/edit?usp=sharing
-   title: 'Reading'
+ - url: https://docs.google.com/document/d/1WWT9ir8gimboA6w0ZLpvFfJwWeA-X-zqY1ZelCdAwjw/edit?usp=sharing
+   title: 'Reading (Prototyping 2/2 + User-Centered Design)'
 assignment:
+ - title: 'Mini Project Individual Reflections'
 hide_time: true
 hide_from_announcements: true
 ---

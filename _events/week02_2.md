@@ -9,6 +9,7 @@ material:
  - url: https://docs.google.com/document/d/1fSrc-vv9mBqtxrwTc_06SiSr_URJa7W_fTplAc1aEX0/edit?usp=sharing
    title: 'Reading'
 assignment:
+ - title: 'Mini-project announced'
 hide_time: true
 hide_from_announcements: true
 ---
