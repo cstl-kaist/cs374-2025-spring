@@ -8,7 +8,6 @@ material:
  - url: https://docs.google.com/document/d/1nqLVUPKESblBIkRHIuPTTOHhuaBV6IRyH9C6ZKyKcTw/edit?usp=sharing
    title: 'Reading'
 assignment:
- - title: 'DP4 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---
