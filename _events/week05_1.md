@@ -11,6 +11,7 @@ material:
    title: 'Reading 2'
 assignment:
  - title: 'DP0: Team Formation'
+ - title: 'HW1 Due'
 hide_time: true
 hide_from_announcements: true
 ---
