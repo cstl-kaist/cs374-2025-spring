@@ -3,7 +3,7 @@ type: class
 date: 2025-02-25T14:30:00+9:00
 week: 1
 class:
- - url: https://www.dropbox.com/scl/fi/u766q2dmclk02prbwj0kz/20240227-01-Introduction.pdf?rlkey=kkyu8m9cg5em1yupu39etv8oi&dl=0
+ - url: /_lectures/01-Introduction.pdf
    title: 'Introduction & Course Info'
 material:
  - title: 'None'
