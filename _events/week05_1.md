@@ -5,9 +5,9 @@ week: 5
 class:
  - title: 'Learnability'
 material:
- - url: https://docs.google.com/document/d/1k1msUpl_SXDu0TmbstKamiIrp4zifCAnAY0Ayj_kPD0/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1dMF97qG2g2rzZ_7t0noIoLcM4GDxdRz2GCNRPk7rAlE/edit?usp=sharing
    title: 'Reading 1'
- - url: https://docs.google.com/document/d/17K0JUdV648vep_bALCpQVvghTbvGmbCUEOoNAQj43Ik/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1PgmjNGP6v3Q7TG-8SqB7xUnN1sVBNYo3Swok8gXFryc/edit?usp=sharing
    title: 'Reading 2'
 assignment:
  - title: 'DP0: Team Formation'

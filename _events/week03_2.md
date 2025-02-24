@@ -5,7 +5,7 @@ week: 3
 class:
  - title: 'Heuristic Evaluation'
 material:
- - url: https://docs.google.com/document/d/1vLr0uhS1slUZvPpJIJGE8Kq6ezSUDwG3pOwmPwAbtLI/edit?usp=sharing
+ - url: https://docs.google.com/document/d/16uEN5Sq17LN_ulPxbMWEbQo49FNd0DJIPTIuXb-y1wA/edit?usp=sharing
    title: 'Reading'
 assignment:
  - title:

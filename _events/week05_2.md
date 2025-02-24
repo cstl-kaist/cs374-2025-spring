@@ -5,7 +5,7 @@ week: 5
 class:
  - title: 'Efficiency'
 material:
- - url: https://docs.google.com/document/d/1S9nDd4KKe30MpVjDqj3ulKu72SXMQe60ZZAN4fLGfyg/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1BrE1EL36Bs4d8NiFQyHjUZn6aXx08yDdzpmqPWuQ2yg/edit?usp=sharing
    title: 'Reading'
 assignment:
 hide_time: true

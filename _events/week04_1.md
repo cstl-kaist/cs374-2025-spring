@@ -5,7 +5,7 @@ week: 4
 class:
  - title: 'Usability Testing'
 material:
- - url: https://docs.google.com/document/d/1obCqmsaEeGt5uB7tltgzqYtgqAPTTi8PiWXFgStkGTI/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1yjj4bU0P_X_TD5iW-ExADgy5oiabpnj9cPmg0RYjuMM/edit?usp=sharing
    title: 'Reading'
 assignment:
 hide_time: true

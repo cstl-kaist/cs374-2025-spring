@@ -5,7 +5,7 @@ week: 7
 class:
  - title: 'Human Abilities'
 material:
- - url: https://docs.google.com/document/d/143tF-g3d9KOYScVAqroCiMq5xn1xRlmmWxVt7fXpG3s/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1KWokwe-Z58WHuXjzqSacmwTDMYo2TYakzOIwYXV7wqk/edit?usp=sharing
    title: 'Reading'
 assignment:
 hide_time: true

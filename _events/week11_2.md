@@ -5,7 +5,7 @@ week: 11
 class:
  - title: 'Input'
 material:
- - url: https://docs.google.com/document/d/1nqLVUPKESblBIkRHIuPTTOHhuaBV6IRyH9C6ZKyKcTw/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1SEuivtWz-THKJHObdHPJel53kN7aCYRg2DWOgkj-xs0/edit?usp=sharing
    title: 'Reading'
 assignment:
 hide_time: true

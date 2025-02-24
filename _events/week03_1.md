@@ -5,7 +5,7 @@ week: 3
 class:
  - title: 'Prototyping'
 material:
- - url: https://docs.google.com/document/d/1HzU5gEPbLzKT5JDTSGnpSrPZ-gZE0QsstyJasZO6C-U/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1AGnvj9re4kJKhqow0gm84Jiv5PTaVJ1r6UW3WDvEgpU/edit?usp=sharing
    title: 'Reading (Prototyping 1/2)'
 assignment:
  - title: 'HW1 Released'

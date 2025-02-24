@@ -5,7 +5,7 @@ week: 4
 class:
  - title: '[Studio] Mini Project'
 material:
- - url: https://docs.google.com/document/d/1WWT9ir8gimboA6w0ZLpvFfJwWeA-X-zqY1ZelCdAwjw/edit?usp=sharing
+ - url: https://docs.google.com/document/d/1-opv2dSQfmD92pw-pNNO79GrXXTftjGMqMdkY1UdV_E/edit?usp=sharing
    title: 'Reading (Prototyping 2/2 + User-Centered Design)'
 assignment:
  - title: 'Mini Project Individual Reflections'
