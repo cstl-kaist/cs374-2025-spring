@@ -8,7 +8,9 @@ class:
 material:
  - title: 'None'
 assignment:
- - title: Course sign-up  
+ - url: https://forms.gle/4tWu1KoVg5tnFxDV9
+   title: 'Course sign-up'
+ 
 hide_time: true
 hide_from_announcements: true
 ---
