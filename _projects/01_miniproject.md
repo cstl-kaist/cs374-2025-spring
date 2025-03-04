@@ -53,6 +53,6 @@ You need to (1) present in a studio session with your slides, which you already 
   * 200 or fewer words?
 
 ## Deliverables
-* **Studio Presentation**: In the studio, your team will present for 7 minutes, with 5 minutes for Q&A and feedback. We'll enforce a strict 7-minute time limit by cutting off the presentation. Please plan and rehearse. You need to prepare a Google Slides presentation, and have one member of your team share the screen during your team's presentation. Note that every team member needs to participate in the presentation. Write down the questions and feedback you receive during your presentation, and reflect on them in your individual reflection.
+* **Studio Presentation**: In the studio, your team will present for up to 10 minutes, with 10 minutes for Q&A and feedback. We'll enforce a strict 10-minute time limit by cutting off the presentation. Please plan and rehearse. You need to prepare a Google Slides presentation, and have one member of your team share the screen during your team's presentation. Note that every team member needs to participate in the presentation. Write down the questions and feedback you receive during your presentation, and reflect on them in your individual reflection.
 
 * **Individual reflection**: Submit individually by filling out the form.
