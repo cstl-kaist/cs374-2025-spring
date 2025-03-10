@@ -2,6 +2,7 @@
 type: assignment
 date: 2024-04-26T4:00:00+4:30
 title: 'Homework #2 - Figma Prototyping'
+published: false
 hide_from_announcements: true
 pdf:
 attachment:

@@ -2,6 +2,7 @@
 type: assignment
 date: 2024-02-29T9:00:00+9:00
 title: 'Homework #1 - UI Hall of Shame'
+published: true
 hide_from_announcements: true
 pdf:
 attachment:
