@@ -10,7 +10,7 @@ title: page.title
   </header>
 
   <div>
-    {% if page.due_event %}
+    {% if page.title == 'Homework #1 - UI Hall of Shame' %}
     <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Thursday) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
     {% elsif page.title == 'Homework #2 - Figma Prototyping' %}
     <span style="font-weight: bold"><mark>Due Date: 05/14 (Tuesday) 23:59</mark></span>
