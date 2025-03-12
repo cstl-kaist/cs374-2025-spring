@@ -3,7 +3,8 @@ type: class
 date: 2025-03-11T14:30:00+9:00
 week: 3
 class:
- - title: 'Prototyping'
+ - url: /lectures/05-Prototyping.pdf
+   title: 'Prototyping'
 material:
  - url: https://docs.google.com/document/d/1AGnvj9re4kJKhqow0gm84Jiv5PTaVJ1r6UW3WDvEgpU/edit?usp=sharing
    title: 'Reading (Prototyping 1/2)'
