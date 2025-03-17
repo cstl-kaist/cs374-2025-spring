@@ -6,7 +6,7 @@ class:
  - title: 'Learnability (Part One)'
 material:
  - url: https://docs.google.com/document/d/1dMF97qG2g2rzZ_7t0noIoLcM4GDxdRz2GCNRPk7rAlE/edit?usp=sharing
-   title: 'Reading 1'
+   title: 'Reading'
 assignment:
  - title: 'DP0: Team Formation'
  - title: 'HW1 Due'
