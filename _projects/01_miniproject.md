@@ -28,11 +28,11 @@ You need to (1) present in a studio session with your slides, which you already 
     * User classes: Multiple classes identified? Characteristics and motivations of each class clearly described?
     * User goals: Subtasks and goals are clearly described? Problem-driven not solution-driven?
     * User needs: Problem-driven not solution-driven?
-  * **Ideation** (15%)
     * POV: Contains user, need, and inspiration? Non-trivial and unique?
+  * **Ideation** (20%)
     * HMW: 10+ HMWs submitted? Scope not too broad or narrow? Distinct, broad, and creative? Problem-driven not solution-driven?
     * Solution Ideas: 10+ solution ideas submitted for each HMW? Distinct, broad, and creative?
-  * **Prototyping** (20%)
+  * **Prototyping** (15%)
     * Tasks: Three? Are the tasks distinct from each other? Are the tasks described concretely and clearly? User-level description not functionality description? Cover important parts of the scenario?
     * Prototype: Novel and creative interface idea? Does it cover all the tasks? Effective use of prototyping techniques? Representative screenshots are enclosed? Prototyping tool and design choices are described?
   * **Usability Testing** (20%)
