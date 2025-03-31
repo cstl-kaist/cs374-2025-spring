@@ -1,13 +1,13 @@
 ---
 date: 2025-04-03T14:30:00+9:00
 week: 6
-type: studio
+type: class
 class:
- - title: '[Studio] DP1: Needfinding'
+ - title: 'Safety'
 material:
- - title: 'None'
+ - url: https://docs.google.com/document/d/1em4OEgFVM-HXzJDivaFJchOnUqXmLlW5nMsLgra6lec/edit?usp=sharing
+   title: 'Reading'
 assignment:
- - title: 'DP1 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

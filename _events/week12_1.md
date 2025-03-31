@@ -1,13 +1,13 @@
 ---
 date: 2025-05-13T14:30:00+9:00
 week: 12
-type: studio
+type: class
 class:
- - title: '[Studio] DP4: Prototyping Round 2 + Heuristic Evaluation'
+ - title: 'Visual Design & Layout'
 material:
- - title: 'None'
+ - url: https://docs.google.com/document/d/1SF-_HWE0GWt1jmp8KPHdHMANd1BHQeg0fQVlfqr70XU/edit?usp=sharing
+   title: 'Reading'
 assignment:
- - title: 'DP4 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---

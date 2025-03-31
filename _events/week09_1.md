@@ -1,13 +1,13 @@
 ---
 date: 2025-04-22T14:30:00+9:00
 week: 9
-type: class
+type: studio
 class:
- - title: 'Human Abilities'
+ - title: '[Studio] DP2: Ideation'
 material:
- - url: https://docs.google.com/document/d/1KWokwe-Z58WHuXjzqSacmwTDMYo2TYakzOIwYXV7wqk/edit?usp=sharing
-   title: 'Reading'
-assignment: 
+ - title: 'None'
+assignment:
+ - title: 'DP2 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---
