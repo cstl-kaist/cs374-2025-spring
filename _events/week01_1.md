@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-02-25T14:30:00+9:00
 week: 1
+type: class
 class:
  - url: /lectures/01-Introduction.pdf
    title: 'Introduction & Course Info'

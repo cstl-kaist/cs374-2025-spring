@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-05-08T14:30:00+9:00
 week: 11
+type: class
 class:
  - title: 'Input'
 material:

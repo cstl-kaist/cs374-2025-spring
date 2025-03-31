@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-05-22T14:30:00+9:00
 week: 13
+type: class
 class:
  - title: 'Social Computing'
 material:

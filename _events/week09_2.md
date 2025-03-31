@@ -1,7 +1,7 @@
 ---
-type: studio
 date: 2025-04-24T14:30:00+9:00
 week: 9
+type: studio
 class:
  - title: '[Studio] DP3: Prototyping Round 1 (CHI Week)'
 material:

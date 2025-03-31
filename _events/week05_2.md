@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-03-27T14:30:00+9:00
 week: 5
+type: class
 class:
  - title: 'Learnability (Part Two)'
 material:

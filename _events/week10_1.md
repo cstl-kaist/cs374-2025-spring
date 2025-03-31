@@ -1,7 +1,7 @@
 ---
-type: noclass
 date: 2025-04-29T14:30:00+9:00
 week: 10
+type: noclass
 class:
  - title: 'No Class -- Figma / Web Tutorial (async)'
 material:

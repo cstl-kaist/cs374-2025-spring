@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-04-01T14:30:00+9:00
 week: 6
+type: class
 class:
  - title: 'Efficiency'
 material:

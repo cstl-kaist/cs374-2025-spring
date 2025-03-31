@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-04-22T14:30:00+9:00
 week: 9
+type: class
 class:
  - title: 'Human Abilities'
 material:

@@ -1,7 +1,7 @@
 ---
-type: class
 date: 2025-03-06T14:30:00+9:00
 week: 2
+type: class
 class:
  - url: /lectures/04-Ideation.pdf 
    title: 'Ideation'
