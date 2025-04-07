@@ -35,7 +35,7 @@ Here's a breakdown of how the grading will work:
 
 **Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. **3** lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
 
-**Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
+**Late policy**: For late submissions of individual homework and group assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. Failure to submit will result in an automatic 0. 
 
 <!-- TOC --><a name="academic-integrity-and-collaboration"></a>
 ## Academic Integrity and Collaboration
