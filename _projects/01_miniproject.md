@@ -1,6 +1,6 @@
 ---
 type: project
-date: 2024-03-03T9:00:00+9:00
+date: 2025-03-03T9:00:00+9:00
 title: 'Mini Project'
 published: true
 hide_from_announcements: true
