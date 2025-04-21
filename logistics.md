@@ -31,7 +31,9 @@ Here's a breakdown of how the grading will work:
 
 **Self and peer assessment**: [Metacognition](https://en.wikipedia.org/wiki/Metacognition) is an extremely powerful way to learn, and self- and peer-assessment offer great opportunities for metacognition. You'll be asked to assess yourself, as well as your teammates after some project milestones.
 
-**Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
+**Attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade. Studio attendance is an especially important part of this, but overall attendance is still mandatory. Being more than 15 minutes late to class will count as an absence. Up to **3** absences can be excused without a documented medical or family reason, but studio participation cannot be excused without a documented medical or family reason.
+
+**Reading and in-class participation**: The rest of your participation grade can come from strong in-class participation, strong participation by commenting on the readings before class, or a combination of both. 
 
 **Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. **3** lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
 
