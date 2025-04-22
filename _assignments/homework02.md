@@ -34,7 +34,7 @@ Make a copy of the template using “Duplicate to your drafts”, and change the
 
 ![submission](/_images/hw2_imgs/submission.png)
 
-* Copy the shareable link via the “Copy link” button, and submit it to this [Google Form](https://forms.gle/XBjxa5kdbHMJgSFj8) by the due date stated above.
+* Copy the shareable link via the “Copy link” button, and submit it to this [Google Form](https://forms.gle/Njik4WDmqvEgpwFo8) by the due date stated above.
 * We track the version history of your Figma file. Any edits made after the deadline will be considered a late submission.
 
 ## Where do I ask questions?
