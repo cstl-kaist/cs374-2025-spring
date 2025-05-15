@@ -7,7 +7,6 @@ class:
 material:
  - title: 'None'
 assignment:
- - title: 'DP6 Write-up'
  - title: 'HW3 Due'
 hide_time: true
 hide_from_announcements: true

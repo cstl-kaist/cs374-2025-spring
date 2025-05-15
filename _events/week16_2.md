@@ -7,6 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
+ - title: 'DP6 Write-up (Sunday by 11:59PM)'
 hide_time: true
 hide_from_announcements: true
 ---
