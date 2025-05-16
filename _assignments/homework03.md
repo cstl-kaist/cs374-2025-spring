@@ -28,7 +28,7 @@ This homework is designed only in the scope of basic web programming with given 
 To help you get started, we have compiled a list of recommended tutorials and materials :
 
 - From previous years' courses
-  - [Tutorial \#1 \- HTML and CSS](https://youtu.be/fimSP0ZU4O8) ([PDF | Code](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial1.pdf))
+  - [Tutorial \#1 \- HTML and CSS](https://youtu.be/fimSP0ZU4O8) ([PDF, Code](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial1.pdf))
   - [Tutorial \#2 \- JavaScript](https://www.youtube.com/watch?v=SCpvAnAVF28&feature=youtu.be) ([PDF](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial2.pdf) | [JS Code](http://codepen.io/hgshin/pen/xqrgLg) | [jQuery Code](http://codepen.io/hgshin/pen/vxZgeR))
 - (1 hour) [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 - (1 hour) [CSS Full Course for free 🎨 (2023)](https://www.youtube.com/watch?v=wRNinF7YQqQ)
