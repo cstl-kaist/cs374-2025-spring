@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="/_layouts/activity/internationalization/i18n/fr.js">
+<script type="text/javascript">
 
 var editboxHTML =
 '<html class="expand close">' +
@@ -78,6 +78,7 @@ var old = '';
 
 function init()
 {
+  console.log('initializing')
   window.editbox.document.write(editboxHTML);
   window.editbox.document.close();
   window.editbox.document.f.ta.value = defaultStuff;
