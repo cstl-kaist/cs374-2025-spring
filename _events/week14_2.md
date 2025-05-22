@@ -7,7 +7,7 @@ class:
 material:
  - title: 'None'
 assignment: 
- - title: 'DP5 Write-up'
+ - title: 
 hide_time: true
 hide_from_announcements: true
 ---

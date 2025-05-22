@@ -7,7 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
- - title: 'HW3 Due'
+ - title: 'HW3 Due, DP5 Write-up Due'
 hide_time: true
 hide_from_announcements: true
 ---
