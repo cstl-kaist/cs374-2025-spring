@@ -28,7 +28,7 @@ This homework is designed only in the scope of basic web programming with given 
 To help you get started, we have compiled a list of recommended tutorials and materials :
 
 - From previous years' courses
-  - [Tutorial \#1 \- HTML and CSS](https://youtu.be/fimSP0ZU4O8) ([PDF, Code](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial1.pdf))
+  - [Tutorial \#1 \- HTML and CSS](https://youtu.be/fimSP0ZU4O8) ([PDF | Code](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial1.pdf))
   - [Tutorial \#2 \- JavaScript](https://www.youtube.com/watch?v=SCpvAnAVF28&feature=youtu.be) ([PDF](https://www.kixlab.org/courses/cs374-spring-2021/assets/tutorials/tutorial2.pdf) | [JS Code](http://codepen.io/hgshin/pen/xqrgLg) | [jQuery Code](http://codepen.io/hgshin/pen/vxZgeR))
 - (1 hour) [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 - (1 hour) [CSS Full Course for free 🎨 (2023)](https://www.youtube.com/watch?v=wRNinF7YQqQ)
@@ -107,13 +107,6 @@ Let’s complete the design for ChatGPT’s chats as well.
 Just like what you have done in step 1-2, write CSS codes for the (1) entire chat component (red), (2) text (blue), and (3) icon group (green).
 
 ![step1-3](/_images/hw3_imgs/step1-3.png)
-
-- (5pt) In the upper image, the part marked in red is the part that is generated each time the ChatGPT produces answers. Find the **class name** that corresponds to this whole part in main.html, and at the same time, corresponds to the _gpt_conversation_ component that you made in the Figma file. Make a new selector for this class in the chat.css file.
-- (5pt) Click on the _gpt_conversation_ component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in chat.css. Paste them into your CSS file.
-- (5pt) In the upper image, the part marked in blue is the text part of the ChatGPT’s answer. Find the **class name** that corresponds to this part in main.html. Make a new selector for this class in the chat.css file.
-- (5pt) Click on the text element in _gpt_conversation_ component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in chat.css. Paste them into your CSS file.
-- (5pt) In the upper image, the part marked in green is the group of icons for pasting and rating the answers. Find the **class name** that corresponds to this **group (not a single icon)** in main.html. Make a new selector for this class in the chat.css file.
-- (5pt) Click on the icon group in _gpt_conversation_ component in the Figma file, and open Inspect panel to check the generated CSS code. Read through the CSS attributes, and copy the attributes that you think should be included in chat.css. Paste them into your CSS file.
 
 You should modify the `GPTConversation.css` file to make the interface the same as the design in the Figma file. Feel free to modify the class `gpt-conversation-container` in the CSS file and add a new class if necessary.
 
